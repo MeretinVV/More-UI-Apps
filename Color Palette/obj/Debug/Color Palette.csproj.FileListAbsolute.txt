@@ -1,0 +1,9 @@
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\bin\Debug\Color Palette.exe.config
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\bin\Debug\Color Palette.exe
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\bin\Debug\Color Palette.pdb
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\obj\Debug\Color Palette.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\obj\Debug\Color_Palette.Properties.Resources.resources
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\obj\Debug\Color Palette.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\obj\Debug\Color Palette.exe
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\obj\Debug\Color Palette.pdb
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Color Palette\obj\Debug\Color_Palette.MainWindow.resources

@@ -1,0 +1,9 @@
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\bin\Debug\Runaway Button.exe.config
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\bin\Debug\Runaway Button.exe
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\bin\Debug\Runaway Button.pdb
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\obj\Debug\Runaway Button.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\obj\Debug\Runaway_Button.Properties.Resources.resources
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\obj\Debug\Runaway Button.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\obj\Debug\Runaway Button.exe
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\obj\Debug\Runaway Button.pdb
+C:\Users\Jack\Desktop\Технология разработки\7. More UI Apps\More UI Apps\Runaway Button\obj\Debug\Runaway_Button.MainWindow.resources
